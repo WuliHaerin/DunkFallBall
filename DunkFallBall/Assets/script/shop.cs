@@ -214,7 +214,7 @@ public class shop : MonoBehaviour {
 
 	public void OnClickAddCredit()
 	{
-		AdManager.ShowVideoAd("192if3b93qo6991ed0",
+		AdManager.ShowVideoAd("1vekiwc3spe2hl7jlp",
 		(bol) => {
 			if (bol)
 			{

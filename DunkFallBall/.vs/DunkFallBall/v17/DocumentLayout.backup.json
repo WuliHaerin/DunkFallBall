@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|d:\\unityproject\\dunkfallball\\dunkfallball\\assets\\script\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|d:\\unityproject\\dunkfallball\\dunkfallball\\assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|d:\\unityproject\\dunkfallball\\dunkfallball\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|d:\\unityproject\\dunkfallball\\dunkfallball\\assets\\ad\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8074470F-D17D-F276-263F-9E0CAB07F395}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shop.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\script\\shop.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\shop.cs",
+              "ToolTip": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\script\\shop.cs",
+              "RelativeToolTip": "Assets\\script\\shop.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAIwNcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:09:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\Ad\\Ad.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:09:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\Ad\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\CebianlanManager.cs",
+              "ToolTip": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\Ad\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\Ad\\CebianlanManager.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:06:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gameManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\script\\gameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\gameManager.cs",
+              "ToolTip": "D:\\UnityProject\\DunkFallBall\\DunkFallBall\\Assets\\script\\gameManager.cs",
+              "RelativeToolTip": "Assets\\script\\gameManager.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAADwvwEBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:03:58.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -241,9 +241,9 @@ public class gameManager : MonoBehaviour {
 			revivedb.SetActive (true);
 		}
 
-		AdManager.ShowInterstitialAd("1lcaf5895d5l1293dc",
+		AdManager.ShowInterstitialAd("5j2h72aab7l9b9f7al",
 			() => {
-				Debug.LogError("--插屏广告完成--");
+				Debug.Log("--插屏广告完成--");
 
 			},
 			(it, str) => {
@@ -255,7 +255,7 @@ public class gameManager : MonoBehaviour {
 
 
 
-		AdManager.ShowVideoAd("192if3b93qo6991ed0",
+		AdManager.ShowVideoAd("26nnukyr6ykce7gbn6",
 		   (bol) => {
 			   if (bol)
 			   {
